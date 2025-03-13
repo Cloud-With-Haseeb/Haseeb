@@ -30,7 +30,7 @@ Currently, I’m working on building **cloud-native applications** and **automat
 
 ---
 
-## 📫 How to Reach Me:
+## 📫 How to Reach Me Out:
 - [LinkedIn](https://linkedin.com/in/abdul-haseeb-54154423a)  
 
 ---
